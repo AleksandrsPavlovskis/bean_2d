@@ -12,8 +12,8 @@ Mūsu pirmais Unity 2d projekts par UI elementu lietojumus
 - [ ] Izmeģināt UI Dropdown lietojumu
 - [x] Izmeģināt UI Scroll view lietojumu
 - [x] Izveidot C# darbam ar tekstu
-- [ ] Izveidot C# skriptu darbam ar UI atteliem
-- [ ] Izveidot C# skriptu drag and drop funkcionalitātei
+- [x] Izveidot C# skriptu darbam ar UI atteliem
+- [x] Izveidot C# skriptu drag and drop funkcionalitātei
 - [x] Ieviest audio efektus
-- [ ] Ieviest galvenās izvēlnes ainu
+- [x] Ieviest galvenās izvēlnes ainu
 - [ ] Sagatavot projektu Windows OS vai WebGL platformām
