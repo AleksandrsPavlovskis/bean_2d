@@ -7,8 +7,11 @@ public class SFXScript : MonoBehaviour
 
     public void PlaySFX(int ix)
     {
-        if(sFXSource.isPlaying)
+        if (sFXSource.isPlaying)
             sFXSource.Stop();
+
         sFXSource.PlayOneShot(audioClip[ix]);
+
     }
+
 }
